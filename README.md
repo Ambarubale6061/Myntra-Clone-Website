@@ -1,5 +1,5 @@
 # Myntra-Clone-Website
-responsive Myntra e-commerce clone built purely with HTML, CSS, and JavaScript. Replicates the core UI and layout of the Myntra app, including product listing, navigation, and basic interactivity. Ideal for learning frontend development and practicing web design skills.
+responsive Myntra clone built purely with HTML, CSS, and JavaScript. Replicates the core UI and layout of the Myntra app, including product listing, navigation, and basic interactivity. Ideal for learning frontend development and practicing web design skills.
 
 Features:
 
